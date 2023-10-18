@@ -40,5 +40,5 @@ ODW - Public
 <p>[*] Pending Orders</p>
 <img src="https://i.ibb.co/hK4WDKr/s13.png" alt="s13" border="0">
 </br>
-<p>[*] Sensors Web Craling Data</p>
+<p>[*] Sensors Web Crawling Data</p>
 <img src="https://i.ibb.co/4mFbHp7/s14.png" alt="s14" border="0">
